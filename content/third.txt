@@ -1,0 +1,1 @@
+Result string: ---------- THIS IS FIRST TEXT FILE ---------- and !!!!!!!!!!!! THIS IS SECOND TEXT FILE !!!!!!!!!!!!APPENDING
